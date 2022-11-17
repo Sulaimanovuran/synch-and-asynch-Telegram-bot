@@ -6,7 +6,7 @@ from aiogram.utils import executor
 from config import open_weather_token
 from test import get_data
 
-bot = Bot(token='5595103049:AAG6esIla3s6XDiTJfumHgxJ-Fy94KA7Z4c')
+bot = Bot(token='Your bot token')
 dp = Dispatcher(bot)
 
 

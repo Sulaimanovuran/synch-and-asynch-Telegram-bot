@@ -7,7 +7,7 @@ from test import get_data
 currency = get_data()
 print(len(currency))
 
-bot = Bot(token='5529444251:AAEMKbi2STL0JTKVhcYp4Fb-vKZ3MbIhUwg')
+bot = Bot(token='Your telegram bot token')
 dp = Dispatcher(bot)
 
 
